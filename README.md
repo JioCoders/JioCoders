@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JioCoders
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:  ✨...✨
+- 👀 I’m interested in backend, fullstack developers
+- 🌱 I’m currently learning Spring boot Java postgres docker redis aws ci/cd
+- 💞️ I’m looking to collaborate on todo daily use app for self 
+- 📫 How to reach me [JioCoders](https://www.linkedin.com/in/jiocoders/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:  ✨Take it easy✨
 
 <!---
 JioCoders/JioCoders is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
