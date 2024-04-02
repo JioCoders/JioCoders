@@ -39,13 +39,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: [LinkedIn](https://tr.linkedin.com/in/jiocoders)
 
 [![Twitter: jiocoders](https://img.shields.io/twitter/follow/JioCoders?style=social)](https://tr.linkedin.com/in/jiocoders)
-[![GitHub jiocoders](https://img.shields.io/github/followers/JioCoders?label=follow&style=social)](https://github.com/jiocoders)
+[![GitHub jiocoders](https://img.shields.io/github/followers/JioCoders?label=follow&style=social)](https://github.com/JioCoders)
 
 
-<a href="https://github.com/jiocoders">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiocoders&show_icons=true&theme=dark&line_height=25&count_private=true&icon_color=00B4AA" alt="Onat's github stats"/>
-</a>
-<a href="https://github.com/jiocoders">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiocoders&theme=dark&layout=compact" />
-</a>
 
