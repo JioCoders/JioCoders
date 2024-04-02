@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello [JioCoders](https://iocode.shop), Welcome to My GitHub 👋
 
-<a href="https://tr.linkedin.com/in/jiocoders">
-  <img align="left" alt="Onat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://linkedin.com/in/jiocoders">
+  <img align="left" alt="JioCoders's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/jiocoders">
   <img align="left" alt="JioCoders's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -36,10 +36,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working with [IOCode](https://www.iocode.shop/) as Flutter Developer.
 - 🏗 I have contribute to [Flutter](https://github.com/flutter/flutter).
-- 📫 How to reach me: [LinkedIn](https://tr.linkedin.com/in/jiocoders)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jiocoders)
 
 [![Twitter: jiocoders](https://img.shields.io/twitter/follow/JioCoders?style=social)](https://tr.linkedin.com/in/jiocoders)
-[![GitHub jiocoders](https://img.shields.io/github/followers/JioCoders?label=follow&style=social)](https://github.com/JioCoders)
 
 
 
