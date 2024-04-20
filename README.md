@@ -11,7 +11,7 @@ JioCoders/JioCoders is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hello [JioCoders]([https://iocode.shop](https://jiocoders-profile.s3.ap-south-1.amazonaws.com/index.html)), Welcome to My GitHub 👋
+## Hello [JioCoders]([https://iocode.shop])(https://jiocoders-profile.s3.ap-south-1.amazonaws.com/index.html), Welcome to My GitHub 👋
 
 <a href="https://linkedin.com/in/jiocoders">
   <img align="left" alt="JioCoders's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
